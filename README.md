@@ -1,4 +1,5 @@
 # Tugger's ban list uses FAGBL
+## How To
 Add or remove from [banned_user.cfg](banned_user.cfg). Then create a pull request to merge into the master branch.
 
 
